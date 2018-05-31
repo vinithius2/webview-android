@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LM Comunicação e marketing</string>
+
+    <string name="url_site_lucas">http://www.lmcm.com.br</string>
+    <string name="title_site_lucas">LM Comunicação e marketing</string>
+
+    <string name="url_site_transgoldtur">http://transgoldtur.com.br/ceara/painel/production/index.php</string>
+    <string name="title_site_transgoldtur">Trans Gold Tur</string>
+
+    <string name="aviso_acesso_internet">É necessário ter acesso a internet Wifi ou 3G para acessar o conteúdo do aplicativo.</string>
+    <string name="ok">Ok</string>
+</resources>
